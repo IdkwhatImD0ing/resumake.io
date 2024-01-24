@@ -302,7 +302,7 @@ function template2(values: FormValues) {
     \\errorcontextlines=5
     ${generator.resumeHeader()}
     \\begin{document}
-    
+
     ${values.sections
       .map((section) => {
         switch (section) {
