@@ -1,5 +1,5 @@
 > [!NOTE]
-> Resumake is currently undergoing a major v3 rewrite. For any thing related to the current app, please see [v2-(old)](https://github.com/saadq/resumake.io/tree/v2-(old)).
+> Resumake is currently undergoing a major v3 rewrite. For any thing related to the current app, please see [v2-(old)](<https://github.com/saadq/resumake.io/tree/v2-(old)>).
 
 # resumake.io
 
@@ -12,16 +12,18 @@ Simply choose a template, fill in as much (or as little) info as you want, and t
 When you're happy with your result, you can download the resume as a PDF, TeX, or JSON document. The JSON output is compatible with [JSONResume](https://jsonresume.org).
 
 ## Credits
+
 Thanks very much to the creators of the LaTeX templates used in this website.
 
-* [Rensselaer Career Development Center](https://www.rpi.edu/dept/arc/training/latex/resumes/)
-* [Byungjin Park](https://github.com/posquit0)
-* [Scott Clark](https://github.com/sc932)
-* [Debarghya Das](https://github.com/deedy)
-* [Xavier Danaux](https://github.com/xdanaux)
-* [Ratul Saha](https://github.com/RatulSaha)
-* [Daniil Belyakov](https://github.com/dnl-blkv)
-* [Frits Wenneker](https://www.overleaf.com/latex/templates/your-new-cv/xqzhcmqkqrtw)
+- [Rensselaer Career Development Center](https://www.rpi.edu/dept/arc/training/latex/resumes/)
+- [Byungjin Park](https://github.com/posquit0)
+- [Scott Clark](https://github.com/sc932)
+- [Debarghya Das](https://github.com/deedy)
+- [Xavier Danaux](https://github.com/xdanaux)
+- [Ratul Saha](https://github.com/RatulSaha)
+- [Daniil Belyakov](https://github.com/dnl-blkv)
+- [Frits Wenneker](https://www.overleaf.com/latex/templates/your-new-cv/xqzhcmqkqrtw)
 
 ## License
+
 MIT © Saad Quadri
